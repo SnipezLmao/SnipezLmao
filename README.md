@@ -1,3 +1,2 @@
 Working...
 
-![](https://w-rust.vercel.app//api?username=SnipezLmao&count_private=true&show_icons=true&theme=tokyonight)
