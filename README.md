@@ -1,3 +1,1 @@
 Working...
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=SnipezLmao&count_private=true)]
