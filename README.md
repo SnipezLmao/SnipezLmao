@@ -1,3 +1,3 @@
 Working...
 
-![](https://github-readme-stats.vercel.app/api?username=SnipezLmao&count_private=true&show_icons=true&theme=tokyonight)
+![](https://w-rust.vercel.app//api?username=SnipezLmao&count_private=true&show_icons=true&theme=tokyonight)
