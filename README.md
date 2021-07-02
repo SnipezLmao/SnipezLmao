@@ -1,3 +1,1 @@
 Working...
-
-[![Top Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=SnipezLmao)]
